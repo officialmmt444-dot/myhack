@@ -1,0 +1,5 @@
+How to use on Kali (quick steps)
+mkdir spoof-hack
+cd spoof-hack
+nano spoof_hack.py   # paste the script, save
+chmod +x spoof_hack.py
