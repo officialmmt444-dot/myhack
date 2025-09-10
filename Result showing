@@ -2,3 +2,5 @@ Run it showing your name
 ./spoof_hack.py --name "Zuniar Khan"
 # or
 python3 spoof_hack.py -n "Zuniar Khan"
+FOR FASTER DEMO 
+python3 spoof_hack.py -n "Zuniar" -f -d 4
